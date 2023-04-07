@@ -1,0 +1,1 @@
+listInt.remove(i);
